@@ -40,7 +40,7 @@ The web store is augmented with a suite of microservices enabling this store for
 [TRIGGER_WORDS](TRIGGER_WORDS.md).
 That list of trigger words are provided to help you better explore the messaging demonstration for chaoticbots
 
-Note that the chaotic platforms employ natural language processing (NLP) and  other AI techiques and technologies to facilitate brand interactions
+Note that the chaotic platforms employ natural language processing (NLP) and other AI techniques and technologies to facilitate brand interactions
 
 ## Contributing
 
